@@ -1,6 +1,6 @@
 -- Mark Wildon, for Royal Holloway MT362/462/5462 Cipher Systems 2018 
 
--- Hit run above: it will take a few seconds because of the huge list of trigrams below
+-- For use in repl.it: just hit run above. It will take a few seconds because of the huge list of trigrams below
 
 module SubstitutionHillClimbWeb2 where
 
